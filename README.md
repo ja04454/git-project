@@ -13,3 +13,6 @@ git init
 ```sh
 git commit
 ```
+
+## LICENSE
+MIT
